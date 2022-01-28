@@ -6,3 +6,6 @@ yes | sudo apt install git
 yes | sudo npm install -g yarn
 yes | sudo snap install blender --classic
 git config --global user.email "arun0808rana@gmail.com"
+https://github.com/arun0808rana/vocab-better.git
+https://github.com/arun0808rana/vocab-better-backend.git
+https://github.com/arun0808rana/basher.git
