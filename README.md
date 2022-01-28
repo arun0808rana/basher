@@ -3,4 +3,6 @@ wget "https://raw.githubusercontent.com/arun0808rana/basher/main/basher.sh" -O /
 cd /home/ubuntu/Desktop
 
 sudo sh ./basher.sh
+exit  
+exit  
 
