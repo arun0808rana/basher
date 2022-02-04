@@ -1,3 +1,4 @@
+yes | sudo timedatectl set-timezone Asia/Kolkata  
 yes | sudo apt-get update
 yes | sudo apt install git
 yes | sudo npm install -g yarn
