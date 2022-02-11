@@ -1,5 +1,8 @@
 yes | sudo timedatectl set-timezone Asia/Kolkata  
 yes | sudo apt-get update
+yes | sudo apt install curl  
+yes | curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -  
+yes | sudo apt-get install -y nodejs
 yes | sudo apt install git
 yes | sudo npm install -g yarn
 yes | sudo snap install node --classic
